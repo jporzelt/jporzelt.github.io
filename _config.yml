@@ -1,28 +1,14 @@
-title: Jürgen Unseld
-description:
-
 url: https://jporzelt.github.io
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+baseurl:
 
-markdown: kramdown
-highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
+# Site Settings
+title: Johannes Porzelt
+description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+keywords: "jekyll, theme"
+google-tracking-id:
 
-navigation:
- - title: Aktuelles
-   url: /index.html
- - title: Galerie
-   url: /galerie
- - title: Lebenslauf
-   url: /lebenslauf
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
 
-social:
-   github: jporzelt
-   twitter:
-   facebook:
-   email: jue.unseld@gmx.de
-
-google_analytics:
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "build"]
