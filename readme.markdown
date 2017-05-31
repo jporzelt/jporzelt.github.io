@@ -1,3 +1,5 @@
+> Based on https://github.com/kirbyt/timeline-jekyll-theme
+
 # Timeline Jekyll Theme
 
 Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
