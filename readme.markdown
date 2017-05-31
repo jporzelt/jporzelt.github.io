@@ -6,6 +6,7 @@ Timeline is multipurpose, single page Jekyll theme that includes a timeline sect
 
 **Example sites**:
 
+- [jporzelt.github.io](https://jporzelt.github.io/)
 - [Demo site](http://kirbyt.github.io/timeline-jekyll-theme)
 - [kirbyturner.com](http://www.kirbyturner.com)
 
