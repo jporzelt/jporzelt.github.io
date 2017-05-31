@@ -21,6 +21,8 @@ Timeline works in a similar fashion as a Jekyll blog site with two differences:
 1. Pages are displayed as sections within the single HTML web page.
 2. Posts are displayed as timeline entries.
 
+To develop and see it locally you can run `gradlew jekyll-serve`. The only precondition is an installed Java (JAVA_HOME set).
+
 ### Creating a Section
 
 To add a section, create a new *.html* file such as *about.html*. This will add the section to the navigation menu and display the section as part of the single page HTML. The file should include the following YAML front matter:
