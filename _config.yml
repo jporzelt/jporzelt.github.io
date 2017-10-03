@@ -3,12 +3,24 @@ baseurl:
 
 # Site Settings
 title: Johannes Porzelt
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
-keywords: "jekyll, theme"
+description: "Software Engineer. Project Manager."
+keywords: "Johannes Porzelt, software engineering, project management, agile development, Java"
 google-tracking-id:
+
+# Color settings (hex-codes)
+color:
+  primary-dark: '#000000'
+  primary-light: '#a1a1a1'
+  links: '#a1a1a1'
 
 # Career Settings
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
 
-exclude: ["Rakefile", "LICENSE", "readme.markdown", "build"]
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "build", "gradle"]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+encoding: utf-8
