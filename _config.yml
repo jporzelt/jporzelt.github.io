@@ -3,6 +3,7 @@ baseurl:
 
 # Site Settings
 title: Johannes Porzelt
+author: Johannes Porzelt
 description: "Software Engineer. Project Manager."
 keywords: "Johannes Porzelt, software engineering, project management, agile development, Java"
 google-tracking-id:
