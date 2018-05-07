@@ -1,7 +1,7 @@
 ---
 layout: null
-title: January 2013 - March 2018
+title: April 2018 - Present
 subtitle: Software Engineer, Project Manager
 image: "img/timeline/4.jpg"
 ---
-Canoo Engineering AG, Basel
+Karakun AG, Basel
