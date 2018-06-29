@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-  jrubyExec 'rubygems:jekyll:3.5.2'
+  jrubyExec 'rubygems:jekyll:3.7.3'
 }
 
 task "jekyll-build"(type: com.github.jrubygradle.JRubyExec) {
