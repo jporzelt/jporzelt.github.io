@@ -4,4 +4,6 @@ title: 2005 - 2011
 subtitle: Student of Medical Informatics
 image: "img/timeline/1.jpg"
 ---
-Graduated as Dipl.-Inform. Med., Medical Faculty of Heidelberg University / Faculty of Informatics of Heilbronn University
+Graduated as  \\
+Dipl.-Inform. Med., \\
+Medical Faculty of Heidelberg University / Faculty of Informatics of Heilbronn University

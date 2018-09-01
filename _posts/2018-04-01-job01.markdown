@@ -1,7 +1,7 @@
 ---
 layout: null
 title: April 2018 - Present
-subtitle: Software Engineer, Project Manager, Co-Founder
+subtitle: Software Engineer, </br>Project Manager, </br>Co-Founder
 image: "img/timeline/4.jpg"
 ---
 Karakun AG, Basel
