@@ -2,6 +2,6 @@
 layout: null
 title: January 2013 - March 2018
 subtitle: Software Engineer, </br>Project Manager
-image: "img/timeline/4.jpg"
+image: "img/timeline/jporzelt.jpg"
 ---
 Canoo Engineering AG, Basel

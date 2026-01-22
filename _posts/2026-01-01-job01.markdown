@@ -2,6 +2,6 @@
 layout: null
 title: January 2026 - Present
 subtitle: IT-Project Manager
-image: "img/timeline/4.jpg"
+image: "img/timeline/jporzelt.jpg"
 ---
 Canton of Basel-Stadt

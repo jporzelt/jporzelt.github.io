@@ -2,7 +2,7 @@
 layout: null
 title: July 2011 - August 2011
 subtitle: Research Associate
-image: "img/timeline/2.jpg"
+image: "img/timeline/jporzelt.jpg"
 ---
 Karlsruhe Institute of Technology (KIT),  \\
 Institute of Applied Informatics and Formal Description Methods (AIFB)

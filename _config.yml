@@ -16,7 +16,7 @@ color:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/timeline/jporzelt.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown", "build", "gradle"]
 
