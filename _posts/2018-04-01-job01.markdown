@@ -1,6 +1,6 @@
 ---
 layout: null
-title: April 2018 - Present
+title: April 2018 - December 2025
 subtitle: Software Engineer, </br>Project Manager, </br>Co-Founder
 image: "img/timeline/4.jpg"
 ---
