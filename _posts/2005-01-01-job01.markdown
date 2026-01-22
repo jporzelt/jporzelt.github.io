@@ -2,7 +2,7 @@
 layout: null
 title: 2005 - 2011
 subtitle: Student of Medical Informatics
-image: "img/timeline/1.jpg"
+image: "img/timeline/jporzelt.jpg"
 ---
 Graduated as  \\
 Dipl.-Inform. Med., \\
