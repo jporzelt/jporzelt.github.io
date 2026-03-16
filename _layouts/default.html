@@ -9,7 +9,7 @@
 	{% include navigation.html %}
 	{% include header.html %}
 
-  {% for page in site.pages | sort: "index" %}
+  {% for page in site.pages | sort: "title" %}
     {% if page.section-type == "default" %}
       <!-- {{ page.title }} Section -->
       <section id="{{ page.title }}" class="container content-section text-center">
